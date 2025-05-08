@@ -1,0 +1,32 @@
+# Byte-compiled / optimized Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data & model checkpoints (keep these off GitHub)
+data/
+outputs/
+tesseract_images/
+tesseract_preds/
+*.pth
+
+# Logs
+*.log
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
