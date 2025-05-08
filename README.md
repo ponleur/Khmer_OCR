@@ -53,7 +53,7 @@ Khmer_OCR/
 1. Clone the repository and enter the directory:
 
    ```bash
-   git clone <REPO_URL> && cd Khmer_OCR
+   git clone https://github.com/ponleur/Khmer_OCR.git && cd Khmer_OCR
    ```
 
 2. Create and activate a Python virtual environment (optional but recommended):
